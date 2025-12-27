@@ -1,5 +1,5 @@
 {
   "name": "My Portal",
   "version": "1.0.0",
-  "parameter": "menu:{PREFIX}{SERVER}/msx/menu.json"
+  "parameter": "menu:https://raw.githubusercontent.com/usercont27/msx-start.json/main/msx/menu.json"
 }
