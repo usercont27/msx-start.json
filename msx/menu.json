@@ -1,0 +1,24 @@
+{
+  "headline": "My Portal",
+  "menu": [
+    {
+      "icon": "movie",
+      "label": "Movies",
+      "data": {
+        "type": "pages",
+        "template": {
+          "type": "separate",
+          "layout": "0,0,2,3",
+          "icon": "msx-white-soft:movie",
+          "color": "msx-glass"
+        },
+        "items": [
+          {
+            "title": "Madden Trailer",
+            "action": "video:https://storage.yandexcloud.net/movies-private/library/madden_teaser_1920.mp4"
+          }
+        ]
+      }
+    }
+  ]
+}
